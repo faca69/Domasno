@@ -1,16 +1,27 @@
 
-// Dog Calc
-
-// function dogAgeCalcuator (humanYears,) {
-
-//     let dogAgeFormula = humanYears * 7;
-
-//     console.log(dogAgeFormula);
-// }
-
-// dogAgeCalcuator(5);
-
-
+// function calcDogAge(dogAge) {
+//     return dogAge * 7;
+//   }
+  
+  
+//   function calcHumAge(humanAge) {
+//     return humanAge / 7;
+//   }
+  
+//   let dogAgeInput = prompt("Vnesi gi godinite vo kuceski godini:");
+//   if (dogAgeInput !== null) {
+//     let dogAge = parseFloat(dogAgeInput);
+//     let dogAgeInHumanYears = calcDogAge(dogAge);
+//     console.log(`Kuceski vo covecki: ${dogAgeInHumanYears}`);
+//   }
+  
+  
+//   let humanAgeInput = prompt("Vnesi gi godinite vo covecki godini:");
+//   if (humanAgeInput !== null) {
+//     let humanAge = parseFloat(humanAgeInput);
+//     let humanAgeInDogYears = calcHumAge(humanAge);
+//     console.log(`Covecki vo kuceski: ${humanAgeInDogYears}`);
+//   }
 
 
 
