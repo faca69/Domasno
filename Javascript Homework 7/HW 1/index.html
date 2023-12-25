@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title></title>
+</head>
+<body>
+  <label for="animalName">Enter animal name: </label>
+  <input type="text" id="animalName">
+  <label for="animalKind">Enter animal kind: </label>
+  <input type="text" id="animalKind">
+  <button id="button">Create Animal</button>
+
+  <div id="output"></div>
+
+  <script>
+
+    const button = document.querySelector("#button");
+    button.addEventListener('click', createAnimal);
+
+    function createAnimal() {
+      const name = document.getElementById('animalName').value;
+      const kind = document.getElementById('animalKind').value;
+
+      const animal = {
+        name: name,
+        kind: kind,
+        speak: function(message) {
+          const outputDiv = document.getElementById('output');
+          outputDiv.textContent = `${this.kind} ${this.name} says: '${message}'`;
+        }
+      };
+
+     
+      animal.speak("Hey bro!!!");
+    }
+  </script>
+</body>
+</html>
