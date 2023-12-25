@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Dynamic Table</title>
+</head>
+<body>
+
+  <label for="rows">Enter number of rows: </label>
+  <input type="number" id="rows">
+  <label for="columns">Enter number of columns: </label>
+  <input type="number" id="columns">
+  <button id="button">Create Table</button>
+
+  <div id="tableContainer"></div>
+
+  <script>
+    const button = document.querySelector('#button');
+    const tableContainer = document.querySelector('#tableContainer');
+
+
+    button.addEventListener('click', createTable);
+
+    function createTable() {
+      const rows = parseInt(document.getElementById('rows').value);
+      const columns = parseInt(document.getElementById('columns').value);
+
+      let table = '<table border="1">';
+      for (let i = 1; i <= rows; i++) {
+        table += '<tr>';
+        for (let x = 1; x <= columns; x++) {
+          table += `<td>Row-${i} Column-${x}</td>`;
+        }
+        table += '</tr>';
+      }
+      table += '</table>';
+
+      tableContainer.innerHTML = table;
+    }
+  </script>
+</body>
+</html>

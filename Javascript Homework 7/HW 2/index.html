@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+
+<script>
+    
+
+    class Book {
+        constructor(title, author, readingStatus) {
+            this.title = title;
+            this.author = author;
+            this.readingStatus = readingStatus;
+        }
+    
+        
+        display() {
+            if (this.readingStatus) {
+                return `Already read '${this.title}' by ${this.author}.`;
+            } else {
+                return `You still need to read '${this.title}' by ${this.author}.`;
+            }
+        }
+    }
+    
+    
+    let book1 = new Book('Metamorphosis', 'Franz Kafka',  true);
+    let book2 = new Book('Sputnik Sweetheart', 'Hurakami', false);
+    
+    
+    console.log(book1.display()); 
+    console.log(book2.display()); 
+    
+        </script>
+    
+</body>
+</html>
