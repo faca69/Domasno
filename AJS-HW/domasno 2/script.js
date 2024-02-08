@@ -46,17 +46,14 @@ console.log(filteredProducts);
 // * Get the names of all products of Category Food, that are on discount.
 console.log('names of all products of Category Food, that are on discount');
 
-products.filter(product => product.hasDiscount === true )
-        .filter(product => product.category === 'Food')
-        .filter(product => product.name)
-        .forEach(product => console.log(product.name))
+let filteredblabla = products.filter(product => product.hasDiscount && product.category === 'Food')
+        .map(product => product.name)
 
 
 // * Get the price of all products that are on discount.
 console.log('price of all products that are on discount');
 
-products.filter(product => product.hasDiscount === true)
-        .filter(product => product.price)
+products.filter(product => product.hasDiscount && product.price)
         .map(product => `${product.price}`)
         .forEach(product => console.log(product))
 
@@ -72,7 +69,7 @@ const namePriceVowelNoDisc = products
     const vowel = ['a', 'e', 'i', 'o', 'u'].includes(firstLetter);
     return vowel && !product.hasDiscount;
   })
-  .forEach(({ name, price }) => console.log(` ${name}, ${price}`));
+  .map(({ name, price }) => console.log(` ${name}, ${price}`));
 
 
         
