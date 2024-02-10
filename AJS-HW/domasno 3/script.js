@@ -1,13 +1,16 @@
-fetch('https://jsonplaceholder.typicode.com/todos/1')
-  .then(response => {
-    if (!response.ok) {
-      throw new Error('error');
+fetch("https://jsonplaceholder.typicode.com/todos/1")
+  .then((response) => {
+    if (response.ok) {
+      return response.json();
+    } else {
+      throw new Error("ERROR");
     }
-    return response.json();
   })
-  .then(data => {
-    console.log(data.title); 
+  .then((todo) => {
+    console.log(todo.title);
   })
-  .catch(error => {
+  .catch((error) => {
     console.error(error);
   });
+
+  
