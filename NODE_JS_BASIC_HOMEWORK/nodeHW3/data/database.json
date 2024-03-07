@@ -1,0 +1,29 @@
+[
+  {
+    "id": "e9f37313-e947-4416-bd24-bd4b195a4d62",
+    "firstName": "Peter",
+    "lastName": "Griffin",
+    "email": "pgriffin@gmail.com",
+    "isCurrentlyTeaching": false,
+    "timeEmployed": "0 Months",
+    "coursesFinishedCount": 0
+  },
+  {
+    "id": "44777653-e6d0-46d4-bfec-7ae436179581",
+    "firstName": "Glenn",
+    "lastName": "Quagmire",
+    "email": "quagmireGlenn@gmail.com",
+    "isCurrentlyTeaching": true,
+    "timeEmployed": "9 Months",
+    "coursesFinishedCount": 4
+  },
+  {
+    "id": "0109a7d4-30d2-48e4-ba32-bcce1a175ec7",
+    "firstName": "Brian",
+    "lastName": "Griffin",
+    "email": "brianDog@bark.com",
+    "isCurrentlyTeaching": true,
+    "timeEmployed": "8 Years",
+    "coursesFinishedCount": 22
+  }
+]
