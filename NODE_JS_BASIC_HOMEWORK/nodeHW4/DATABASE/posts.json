@@ -1,0 +1,44 @@
+[
+  {
+    "title": "PETERS POST",
+    "content": "PETER PETER PETER PETER",
+    "userId": "2ff66505-5f3b-4f81-bfad-022810d95c73",
+    "id": "85f8c8b3-0ec9-473a-8ab2-2cfdef7e1ea0",
+    "postCreatedAt": "2024-03-17T17:01:48.998Z",
+    "contentUpdatedAt": "2024-03-17T17:48:31.663Z"
+  },
+  {
+    "title": "BRIANS POST",
+    "content": "BRIAN BRIAN BRIAN",
+    "userId": "ff7c8ce6-02f1-443b-8995-11bebd0c084d",
+    "id": "be886e0a-587a-4428-b97b-37973a189cb3",
+    "postCreatedAt": "2024-03-17T17:03:30.246Z"
+  },
+  {
+    "title": "Walking BRIAN",
+    "content": "megaaan",
+    "userId": "70d6d1aa-00ed-40cf-8034-78e24487ded4",
+    "id": "1eacec54-12d5-44f2-9acb-2a45807a141f",
+    "postCreatedAt": "2024-03-17T17:04:50.008Z",
+    "likedBy": [
+      "2ff66505-5f3b-4f81-bfad-022810d95c73",
+      "9c8b654e-5b9a-4a34-8a31-bfcb25e58000"
+    ],
+    "titleUpdatedAt": "2024-03-19T12:58:56.255Z",
+    "contentUpdatedAt": "2024-03-19T13:03:22.223Z"
+  },
+  {
+    "title": "PETERS POST 2",
+    "content": "PETER PETER PETER 22222",
+    "userId": "2ff66505-5f3b-4f81-bfad-022810d95c73",
+    "id": "9efb0ee2-1591-42c8-a37d-65ac0dfcc70d",
+    "postCreatedAt": "2024-03-18T11:04:52.988Z"
+  },
+  {
+    "title": "hello , peters post",
+    "content": "peter",
+    "userId": "2ff66505-5f3b-4f81-bfad-022810d95c73",
+    "id": "9891c91c-6fb3-4584-89d2-a7a650910128",
+    "postCreatedAt": "2024-03-20T17:46:44.296Z"
+  }
+]

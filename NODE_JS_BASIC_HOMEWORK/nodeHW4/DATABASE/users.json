@@ -1,0 +1,37 @@
+[
+  {
+    "id": "ff7c8ce6-02f1-443b-8995-11bebd0c084d",
+    "name": "Brian",
+    "username": "brian@griffin",
+    "password": "$2b$10$Fo0bXinx0ciW/gRIBInhG.E1d4w3UwfU2RVpCGJ527c5L2A3paR12",
+    "usernameCreatedAt": "2024-03-17T16:57:57.335Z"
+  },
+  {
+    "id": "2ff66505-5f3b-4f81-bfad-022810d95c73",
+    "name": "Peter",
+    "username": "peter@griffin",
+    "password": "$2b$10$DkoOlL.sXKZNR12LBu0Yfe0Y.xXWeUBPJyFUgY8wgwIgvuN0QHFTe",
+    "usernameCreatedAt": "2024-03-17T16:58:14.828Z"
+  },
+  {
+    "id": "70d6d1aa-00ed-40cf-8034-78e24487ded4",
+    "name": "Meg",
+    "username": "meg@griffin",
+    "password": "$2b$10$frElYB0D/AdkRoqus/hvZe.QIVpB9ZVmNq6znC5vn2TOvS1vRpxou",
+    "usernameCreatedAt": "2024-03-17T16:58:28.629Z"
+  },
+  {
+    "id": "98359b7c-6a9c-48fa-a282-e11a426b418a",
+    "name": "Joe",
+    "username": "joe@swanson",
+    "password": "$2b$10$J2VRNg4Tpdohk6F/vxqhmOzDAcALdOZzjF25w/1B.wdOVo3g1KRoW",
+    "usernameCreatedAt": "2024-03-17T16:58:59.647Z"
+  },
+  {
+    "id": "9c8b654e-5b9a-4a34-8a31-bfcb25e58000",
+    "name": "Filip",
+    "username": "faca@69",
+    "password": "$2b$10$sDwT3fYfeHCsP83MFzT2Y.54IoySlfoYG571.Zssc1vVoPrcc9BPW",
+    "usernameCreatedAt": "2024-03-19T12:42:17.962Z"
+  }
+]
