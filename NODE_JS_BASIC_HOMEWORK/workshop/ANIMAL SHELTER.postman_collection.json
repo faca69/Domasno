@@ -1,0 +1,210 @@
+{
+	"info": {
+		"_postman_id": "e7e9336a-588b-4a7b-a93c-1ca6c1028169",
+		"name": "ANIMAL SHELTER",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "33333043"
+	},
+	"item": [
+		{
+			"name": "adop",
+			"item": [
+				{
+					"name": "create ado",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \n    \"name\": \"Stefan\",\n    \"email\": \"stefan.email.com\",\n    \"animal\": \"660d8e8c6b284403492293d3\"\n\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "http://localhost:3000/api/adoptions",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "3000",
+							"path": [
+								"api",
+								"adoptions"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "get ado",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:3000/api/adoptions/:id",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "3000",
+							"path": [
+								"api",
+								"adoptions",
+								":id"
+							],
+							"variable": [
+								{
+									"key": "id",
+									"value": "660dc52e1c8ebd9f02b6f282"
+								}
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "create animal",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n\n\n\"name\": \"lili\",\n\"type\": \"cat\",\n\"breed\":\"russian blue\",\n\"age\": 2,\n\"status\": \"available\",\n\"description\": \"lili loves her fish snacks\"\n \n\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:3000/api/animals",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"api",
+						"animals"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "get all animals",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:3000/api/animals",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"api",
+						"animals"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "get animal",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:3000/api/animals/:id",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"api",
+						"animals",
+						":id"
+					],
+					"variable": [
+						{
+							"key": "id",
+							"value": "660dc4841c8ebd9f02b6f27e"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "delete",
+			"request": {
+				"method": "DELETE",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:3000/api/animals/:id",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"api",
+						"animals",
+						":id"
+					],
+					"variable": [
+						{
+							"key": "id",
+							"value": "660d8fae6b284403492293d8"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "update",
+			"request": {
+				"method": "PUT",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n\n\"name\": \"Garfield\",\n\"type\": \"cat\",\n\"breed\":\"orange tabby persian cat\",\n\"age\": 2,\n\"status\": \"adopted\",\n\"description\": \"Garfield loves lasagne, i e (updated)\"\n \n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:3000/api/animals/:id",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"api",
+						"animals",
+						":id"
+					],
+					"variable": [
+						{
+							"key": "id",
+							"value": "660d8e8c6b284403492293d3"
+						}
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
