@@ -1,0 +1,316 @@
+{
+	"info": {
+		"_postman_id": "25cad7ef-fa3a-464a-b49b-af5ea6660cdf",
+		"name": "NEST JS HW",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "33333043"
+	},
+	"item": [
+		{
+			"name": "ARTISTS",
+			"item": [
+				{
+					"name": "GET ARTISTS",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:3000/api/artists",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "3000",
+							"path": [
+								"api",
+								"artists"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "UPDATE ARTIST",
+					"request": {
+						"method": "PUT",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n\n    \"name\":\"Travis Scott\",\n    \"age\": 999999999,\n    \"country\": \"USA\"\n\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "http://localhost:3000/api/artists/:id",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "3000",
+							"path": [
+								"api",
+								"artists",
+								":id"
+							],
+							"variable": [
+								{
+									"key": "id",
+									"value": "c40d365a-08c1-458a-94d2-8dbc0bc66984"
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "CREATE ARTIST",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n\n    \"name\":\"Travis Scott\",\n    \"age\": 39,\n    \"country\": \"USA\"\n\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "http://localhost:3000/api/artists",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "3000",
+							"path": [
+								"api",
+								"artists"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "DELERE ARTIST",
+					"request": {
+						"method": "DELETE",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:3000/api/artists/:id",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "3000",
+							"path": [
+								"api",
+								"artists",
+								":id"
+							],
+							"variable": [
+								{
+									"key": "id",
+									"value": "2c96c332-acd5-4356-8fdc-55847abf842d"
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "GET ARTIST BY ID",
+					"protocolProfileBehavior": {
+						"disableBodyPruning": true
+					},
+					"request": {
+						"method": "GET",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "http://localhost:3000/artists/:artistId",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "3000",
+							"path": [
+								"artists",
+								":artistId"
+							],
+							"variable": [
+								{
+									"key": "artistId",
+									"value": "1"
+								}
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "SONGS",
+			"item": [
+				{
+					"name": "GET SONGS",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:3000/api/songs",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "3000",
+							"path": [
+								"api",
+								"songs"
+							],
+							"query": [
+								{
+									"key": "",
+									"value": "",
+									"disabled": true
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "GET SONG BY ID",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:3000/api/songs/:id",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "3000",
+							"path": [
+								"api",
+								"songs",
+								":id"
+							],
+							"variable": [
+								{
+									"key": "id",
+									"value": "b1fe4b95-1edf-4beb-b79e-28ca7f8e890a"
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "UPDATE SONG",
+					"request": {
+						"method": "PUT",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n\n\"name\": \"Sicko Mode\",\n\"duration\": 333,\n\"genre\": \"Rap\",\n\"releaseDate\": 99999\n\n\n    \n\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "http://localhost:3000/api/songs/:id",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "3000",
+							"path": [
+								"api",
+								"songs",
+								":id"
+							],
+							"variable": [
+								{
+									"key": "id",
+									"value": "b1fe4b95-1edf-4beb-b79e-28ca7f8e890a"
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "CREATE SONG",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n\n\"name\": \"Coffee Bean\",\n\"duration\": 444,\n\"genre\": \"Rap\",\n\"releaseDate\": 2018\n\n\n    \n\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "http://localhost:3000/api/songs",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "3000",
+							"path": [
+								"api",
+								"songs"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "DELETE SONG",
+					"request": {
+						"method": "DELETE",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:3000/api/songs/:id",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "3000",
+							"path": [
+								"api",
+								"songs",
+								":id"
+							],
+							"variable": [
+								{
+									"key": "id",
+									"value": "be4b6729-9b9a-49b3-8365-2028a80c5e99"
+								}
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		}
+	]
+}
