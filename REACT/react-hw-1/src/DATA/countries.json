@@ -1,0 +1,134 @@
+[
+  {
+    "id": 1,
+    "name": {
+      "common": "Japan"
+    },
+    "capital": ["Tokyo"],
+    "region": "Asia",
+    "area": 377975,
+    "flag": "https://twemoji.maxcdn.com/2/svg/1f1ef-1f1f5.svg",
+    "population": 126300000,
+    "landlocked": false
+  },
+  {
+    "id": 2,
+    "name": {
+      "common": "India"
+    },
+    "capital": ["New Delhi"],
+    "region": "Asia",
+    "area": 3287263,
+    "flag": "https://twemoji.maxcdn.com/2/svg/1f1ee-1f1f3.svg",
+    "population": 1393409038,
+    "landlocked": false
+  },
+  {
+    "id": 3,
+    "name": {
+      "common": "China"
+    },
+    "capital": ["Beijing"],
+    "region": "Asia",
+    "area": 9596961,
+    "flag": "https://twemoji.maxcdn.com/2/svg/1f1e8-1f1f3.svg",
+    "population": 1444216107,
+    "landlocked": false
+  },
+  {
+    "id": 4,
+    "name": {
+      "common": "Nigeria"
+    },
+    "capital": ["Abuja"],
+    "region": "Africa",
+    "area": 923769,
+    "flag": "https://twemoji.maxcdn.com/2/svg/1f1f3-1f1ec.svg",
+    "population": 206139589,
+    "landlocked": false
+  },
+  {
+    "id": 5,
+    "name": {
+      "common": "South Africa"
+    },
+    "capital": ["Pretoria", "Bloemfontein", "Cape Town"],
+    "region": "Africa",
+    "area": 1221037,
+    "flag": "https://twemoji.maxcdn.com/2/svg/1f1ff-1f1e6.svg",
+    "population": 59308690,
+    "landlocked": false
+  },
+  {
+    "id": 6,
+    "name": {
+      "common": "Egypt"
+    },
+    "capital": ["Cairo"],
+    "region": "Africa",
+    "area": 1002450,
+    "flag": "https://twemoji.maxcdn.com/2/svg/1f1ea-1f1ec.svg",
+    "population": 102334404,
+    "landlocked": false
+  },
+  {
+    "id": 7,
+    "name": {
+      "common": "Germany"
+    },
+    "capital": ["Berlin"],
+    "region": "Europe",
+    "area": 357114,
+    "flag": "https://twemoji.maxcdn.com/2/svg/1f1e9-1f1ea.svg",
+    "population": 83240525,
+    "landlocked": false
+  },
+  {
+    "id": 8,
+    "name": {
+      "common": "France"
+    },
+    "capital": ["Paris"],
+    "region": "Europe",
+    "area": 551695,
+    "flag": "https://twemoji.maxcdn.com/2/svg/1f1eb-1f1f7.svg",
+    "population": 67399000,
+    "landlocked": false
+  },
+  {
+    "id": 9,
+    "name": {
+      "common": "United Kingdom"
+    },
+    "capital": ["London"],
+    "region": "Europe",
+    "area": 243610,
+    "flag": "https://twemoji.maxcdn.com/2/svg/1f1ec-1f1e7.svg",
+    "population": 67886011,
+    "landlocked": false
+  },
+  {
+    "id": 10,
+    "name": {
+      "common": "United States"
+    },
+    "capital": ["Washington, D.C."],
+    "region": "Americas",
+    "area": 9833520,
+    "flag": "https://twemoji.maxcdn.com/2/svg/1f1fa-1f1f8.svg",
+    "population": 331002651,
+    "landlocked": false
+  },
+  {
+    "id": 11,
+    "name": {
+      "common": "Australia"
+    },
+    "capital": ["Canberra"],
+    "region": "Oceania",
+    "area": 7692024,
+    "flag": "https://twemoji.maxcdn.com/2/svg/1f1e6-1f1fa.svg",
+    "population": 25687041,
+    "landlocked": false
+  }
+]
