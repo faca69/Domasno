@@ -1,0 +1,1202 @@
+[
+  {
+    "id": 1,
+    "name": {
+      "common": "Afghanistan"
+    },
+    "capital": ["Kabul"],
+    "region": "Asia",
+    "area": 652230,
+    "flag": "https://twemoji.maxcdn.com/2/svg/1f1e6-1f1eb.svg",
+    "population": 38928341,
+    "landlocked": true
+  },
+  {
+    "id": 2,
+    "name": {
+      "common": "Albania"
+    },
+    "capital": ["Tirana"],
+    "region": "Europe",
+    "area": 28748,
+    "flag": "https://twemoji.maxcdn.com/2/svg/1f1e6-1f1f1.svg",
+    "population": 2877797,
+    "landlocked": false
+  },
+  {
+    "id": 3,
+    "name": {
+      "common": "Algeria"
+    },
+    "capital": ["Algiers"],
+    "region": "Africa",
+    "area": 2381741,
+    "flag": "https://twemoji.maxcdn.com/2/svg/1f1e9-1f1ff.svg",
+    "population": 43851044,
+    "landlocked": false
+  },
+  {
+    "id": 4,
+    "name": {
+      "common": "Andorra"
+    },
+    "capital": ["Andorra la Vella"],
+    "region": "Europe",
+    "area": 468,
+    "flag": "https://twemoji.maxcdn.com/2/svg/1f1e6-1f1e9.svg",
+    "population": 77265,
+    "landlocked": true
+  },
+  {
+    "id": 5,
+    "name": {
+      "common": "Angola"
+    },
+    "capital": ["Luanda"],
+    "region": "Africa",
+    "area": 1246700,
+    "flag": "https://twemoji.maxcdn.com/2/svg/1f1e6-1f1f4.svg",
+    "population": 32866272,
+    "landlocked": false
+  },
+  {
+    "id": 6,
+    "name": {
+      "common": "Antigua and Barbuda"
+    },
+    "capital": ["Saint John's"],
+    "region": "Americas",
+    "area": 442,
+    "flag": "https://twemoji.maxcdn.com/2/svg/1f1e6-1f1ec.svg",
+    "population": 97929,
+    "landlocked": false
+  },
+  {
+    "id": 7,
+    "name": {
+      "common": "Argentina"
+    },
+    "capital": ["Buenos Aires"],
+    "region": "Americas",
+    "area": 2780400,
+    "flag": "https://twemoji.maxcdn.com/2/svg/1f1e6-1f1f7.svg",
+    "population": 45195774,
+    "landlocked": false
+  },
+  {
+    "id": 8,
+    "name": {
+      "common": "Armenia"
+    },
+    "capital": ["Yerevan"],
+    "region": "Asia",
+    "area": 29743,
+    "flag": "https://twemoji.maxcdn.com/2/svg/1f1e6-1f1f2.svg",
+    "population": 2963243,
+    "landlocked": true
+  },
+  {
+    "id": 9,
+    "name": {
+      "common": "Australia"
+    },
+    "capital": ["Canberra"],
+    "region": "Oceania",
+    "area": 7692024,
+    "flag": "https://twemoji.maxcdn.com/2/svg/1f1e6-1f1fa.svg",
+    "population": 25687041,
+    "landlocked": false
+  },
+  {
+    "id": 10,
+    "name": {
+      "common": "Austria"
+    },
+    "capital": ["Vienna"],
+    "region": "Europe",
+    "area": 83871,
+    "flag": "https://twemoji.maxcdn.com/2/svg/1f1e6-1f1f9.svg",
+    "population": 9006398,
+    "landlocked": true
+  },
+  {
+    "id": 11,
+    "name": {
+      "common": "Azerbaijan"
+    },
+    "capital": ["Baku"],
+    "region": "Asia",
+    "area": 86600,
+    "flag": "https://twemoji.maxcdn.com/2/svg/1f1e6-1f1ff.svg",
+    "population": 10139177,
+    "landlocked": true
+  },
+  {
+    "id": 12,
+    "name": {
+      "common": "Bahamas"
+    },
+    "capital": ["Nassau"],
+    "region": "Americas",
+    "area": 13943,
+    "flag": "https://twemoji.maxcdn.com/2/svg/1f1e7-1f1f8.svg",
+    "population": 393244,
+    "landlocked": false
+  },
+  {
+    "id": 13,
+    "name": {
+      "common": "Bahrain"
+    },
+    "capital": ["Manama"],
+    "region": "Asia",
+    "area": 765,
+    "flag": "https://twemoji.maxcdn.com/2/svg/1f1e7-1f1ed.svg",
+    "population": 1701575,
+    "landlocked": false
+  },
+  {
+    "id": 14,
+    "name": {
+      "common": "Bangladesh"
+    },
+    "capital": ["Dhaka"],
+    "region": "Asia",
+    "area": 147570,
+    "flag": "https://twemoji.maxcdn.com/2/svg/1f1e7-1f1e9.svg",
+    "population": 164689383,
+    "landlocked": false
+  },
+  {
+    "id": 15,
+    "name": {
+      "common": "Barbados"
+    },
+    "capital": ["Bridgetown"],
+    "region": "Americas",
+    "area": 430,
+    "flag": "https://twemoji.maxcdn.com/2/svg/1f1e7-1f1e7.svg",
+    "population": 287371,
+    "landlocked": false
+  },
+  {
+    "id": 16,
+    "name": {
+      "common": "Belarus"
+    },
+    "capital": ["Minsk"],
+    "region": "Europe",
+    "area": 207600,
+    "flag": "https://twemoji.maxcdn.com/2/svg/1f1e7-1f1fe.svg",
+    "population": 9449323,
+    "landlocked": true
+  },
+  {
+    "id": 17,
+    "name": {
+      "common": "Belgium"
+    },
+    "capital": ["Brussels"],
+    "region": "Europe",
+    "area": 30528,
+    "flag": "https://twemoji.maxcdn.com/2/svg/1f1e7-1f1ea.svg",
+    "population": 11589623,
+    "landlocked": false
+  },
+  {
+    "id": 18,
+    "name": {
+      "common": "Belize"
+    },
+    "capital": ["Belmopan"],
+    "region": "Americas",
+    "area": 22966,
+    "flag": "https://twemoji.maxcdn.com/2/svg/1f1e7-1f1ff.svg",
+    "population": 397621,
+    "landlocked": false
+  },
+  {
+    "id": 19,
+    "name": {
+      "common": "Benin"
+    },
+    "capital": ["Porto-Novo"],
+    "region": "Africa",
+    "area": 112622,
+    "flag": "https://twemoji.maxcdn.com/2/svg/1f1e7-1f1ef.svg",
+    "population": 12123200,
+    "landlocked": false
+  },
+  {
+    "id": 20,
+    "name": {
+      "common": "Bhutan"
+    },
+    "capital": ["Thimphu"],
+    "region": "Asia",
+    "area": 38394,
+    "flag": "https://twemoji.maxcdn.com/2/svg/1f1e7-1f1f9.svg",
+    "population": 771608,
+    "landlocked": true
+  },
+  {
+    "id": 21,
+    "name": {
+      "common": "Bolivia"
+    },
+    "capital": ["Sucre"],
+    "region": "Americas",
+    "area": 1098581,
+    "flag": "https://twemoji.maxcdn.com/2/svg/1f1e7-1f1f4.svg",
+    "population": 11673021,
+    "landlocked": true
+  },
+  {
+    "id": 22,
+    "name": {
+      "common": "Bosnia and Herzegovina"
+    },
+    "capital": ["Sarajevo"],
+    "region": "Europe",
+    "area": 51197,
+    "flag": "https://twemoji.maxcdn.com/2/svg/1f1e7-1f1e6.svg",
+    "population": 3280819,
+    "landlocked": false
+  },
+  {
+    "id": 23,
+    "name": {
+      "common": "Botswana"
+    },
+    "capital": ["Gaborone"],
+    "region": "Africa",
+    "area": 582000,
+    "flag": "https://twemoji.maxcdn.com/2/svg/1f1e7-1f1fc.svg",
+    "population": 2351627,
+    "landlocked": true
+  },
+  {
+    "id": 24,
+    "name": {
+      "common": "Brazil"
+    },
+    "capital": ["Brasília"],
+    "region": "Americas",
+    "area": 8515767,
+    "flag": "https://twemoji.maxcdn.com/2/svg/1f1e7-1f1f7.svg",
+    "population": 212559409,
+    "landlocked": false
+  },
+  {
+    "id": 25,
+    "name": {
+      "common": "Brunei"
+    },
+    "capital": ["Bandar Seri Begawan"],
+    "region": "Asia",
+    "area": 5765,
+    "flag": "https://twemoji.maxcdn.com/2/svg/1f1e7-1f1f3.svg",
+    "population": 437483,
+    "landlocked": false
+  },
+  {
+    "id": 26,
+    "name": {
+      "common": "Bulgaria"
+    },
+    "capital": ["Sofia"],
+    "region": "Europe",
+    "area": 110879,
+    "flag": "https://twemoji.maxcdn.com/2/svg/1f1e7-1f1ec.svg",
+    "population": 6948445,
+    "landlocked": false
+  },
+  {
+    "id": 27,
+    "name": {
+      "common": "Burkina Faso"
+    },
+    "capital": ["Ouagadougou"],
+    "region": "Africa",
+    "area": 272967,
+    "flag": "https://twemoji.maxcdn.com/2/svg/1f1e7-1f1eb.svg",
+    "population": 20903273,
+    "landlocked": true
+  },
+  {
+    "id": 28,
+    "name": {
+      "common": "Burundi"
+    },
+    "capital": ["Gitega"],
+    "region": "Africa",
+    "area": 27834,
+    "flag": "https://twemoji.maxcdn.com/2/svg/1f1e7-1f1ee.svg",
+    "population": 11890784,
+    "landlocked": true
+  },
+  {
+    "id": 29,
+    "name": {
+      "common": "Cabo Verde"
+    },
+    "capital": ["Praia"],
+    "region": "Africa",
+    "area": 4033,
+    "flag": "https://twemoji.maxcdn.com/2/svg/1f1e8-1f1fb.svg",
+    "population": 555987,
+    "landlocked": false
+  },
+  {
+    "id": 30,
+    "name": {
+      "common": "Cambodia"
+    },
+    "capital": ["Phnom Penh"],
+    "region": "Asia",
+    "area": 181035,
+    "flag": "https://twemoji.maxcdn.com/2/svg/1f1f0-1f1ed.svg",
+    "population": 16718965,
+    "landlocked": false
+  },
+  {
+    "id": 31,
+    "name": {
+      "common": "Cameroon"
+    },
+    "capital": ["Yaoundé"],
+    "region": "Africa",
+    "area": 475442,
+    "flag": "https://twemoji.maxcdn.com/2/svg/1f1e8-1f1f2.svg",
+    "population": 26545863,
+    "landlocked": false
+  },
+  {
+    "id": 32,
+    "name": {
+      "common": "Canada"
+    },
+    "capital": ["Ottawa"],
+    "region": "Americas",
+    "area": 9984670,
+    "flag": "https://twemoji.maxcdn.com/2/svg/1f1e8-1f1e6.svg",
+    "population": 37742154,
+    "landlocked": false
+  },
+  {
+    "id": 33,
+    "name": {
+      "common": "Central African Republic"
+    },
+    "capital": ["Bangui"],
+    "region": "Africa",
+    "area": 622984,
+    "flag": "https://twemoji.maxcdn.com/2/svg/1f1e8-1f1eb.svg",
+    "population": 4829767,
+    "landlocked": true
+  },
+  {
+    "id": 34,
+    "name": {
+      "common": "Chad"
+    },
+    "capital": ["N'Djamena"],
+    "region": "Africa",
+    "area": 1284000,
+    "flag": "https://twemoji.maxcdn.com/2/svg/1f1f9-1f1e9.svg",
+    "population": 16425864,
+    "landlocked": true
+  },
+  {
+    "id": 35,
+    "name": {
+      "common": "Chile"
+    },
+    "capital": ["Santiago"],
+    "region": "Americas",
+    "area": 756102,
+    "flag": "https://twemoji.maxcdn.com/2/svg/1f1e8-1f1f1.svg",
+    "population": 19116201,
+    "landlocked": false
+  },
+  {
+    "id": 36,
+    "name": {
+      "common": "China"
+    },
+    "capital": ["Beijing"],
+    "region": "Asia",
+    "area": 9596961,
+    "flag": "https://twemoji.maxcdn.com/2/svg/1f1e8-1f1f3.svg",
+    "population": 1444216107,
+    "landlocked": false
+  },
+  {
+    "id": 37,
+    "name": {
+      "common": "Colombia"
+    },
+    "capital": ["Bogotá"],
+    "region": "Americas",
+    "area": 1141748,
+    "flag": "https://twemoji.maxcdn.com/2/svg/1f1e8-1f1f4.svg",
+    "population": 50882891,
+    "landlocked": false
+  },
+  {
+    "id": 38,
+    "name": {
+      "common": "Comoros"
+    },
+    "capital": ["Moroni"],
+    "region": "Africa",
+    "area": 2235,
+    "flag": "https://twemoji.maxcdn.com/2/svg/1f1f0-1f1f2.svg",
+    "population": 869595,
+    "landlocked": false
+  },
+  {
+    "id": 39,
+    "name": {
+      "common": "Congo (Congo-Brazzaville)"
+    },
+    "capital": ["Brazzaville"],
+    "region": "Africa",
+    "area": 342000,
+    "flag": "https://twemoji.maxcdn.com/2/svg/1f1e8-1f1ec.svg",
+    "population": 5518092,
+    "landlocked": false
+  },
+  {
+    "id": 40,
+    "name": {
+      "common": "Costa Rica"
+    },
+    "capital": ["San José"],
+    "region": "Americas",
+    "area": 51100,
+    "flag": "https://twemoji.maxcdn.com/2/svg/1f1e8-1f1f7.svg",
+    "population": 5094118,
+    "landlocked": false
+  },
+  {
+    "id": 41,
+    "name": {
+      "common": "Croatia"
+    },
+    "capital": ["Zagreb"],
+    "region": "Europe",
+    "area": 56594,
+    "flag": "https://twemoji.maxcdn.com/2/svg/1f1ed-1f1f7.svg",
+    "population": 4105267,
+    "landlocked": false
+  },
+  {
+    "id": 42,
+    "name": {
+      "common": "Cuba"
+    },
+    "capital": ["Havana"],
+    "region": "Americas",
+    "area": 109884,
+    "flag": "https://twemoji.maxcdn.com/2/svg/1f1e8-1f1fa.svg",
+    "population": 11326616,
+    "landlocked": false
+  },
+  {
+    "id": 43,
+    "name": {
+      "common": "Cyprus"
+    },
+    "capital": ["Nicosia"],
+    "region": "Asia",
+    "area": 9251,
+    "flag": "https://twemoji.maxcdn.com/2/svg/1f1e8-1f1fe.svg",
+    "population": 1207359,
+    "landlocked": false
+  },
+  {
+    "id": 44,
+    "name": {
+      "common": "Czech Republic"
+    },
+    "capital": ["Prague"],
+    "region": "Europe",
+    "area": 78865,
+    "flag": "https://twemoji.maxcdn.com/2/svg/1f1e8-1f1ff.svg",
+    "population": 10708981,
+    "landlocked": true
+  },
+  {
+    "id": 45,
+    "name": {
+      "common": "Democratic Republic of the Congo"
+    },
+    "capital": ["Kinshasa"],
+    "region": "Africa",
+    "area": 2344858,
+    "flag": "https://twemoji.maxcdn.com/2/svg/1f1e8-1f1e9.svg",
+    "population": 89561403,
+    "landlocked": false
+  },
+  {
+    "id": 46,
+    "name": {
+      "common": "Denmark"
+    },
+    "capital": ["Copenhagen"],
+    "region": "Europe",
+    "area": 43094,
+    "flag": "https://twemoji.maxcdn.com/2/svg/1f1e9-1f1f0.svg",
+    "population": 5818553,
+    "landlocked": false
+  },
+  {
+    "id": 47,
+    "name": {
+      "common": "Djibouti"
+    },
+    "capital": ["Djibouti"],
+    "region": "Africa",
+    "area": 23200,
+    "flag": "https://twemoji.maxcdn.com/2/svg/1f1e9-1f1ef.svg",
+    "population": 988000,
+    "landlocked": false
+  },
+  {
+    "id": 48,
+    "name": {
+      "common": "Dominica"
+    },
+    "capital": ["Roseau"],
+    "region": "Americas",
+    "area": 751,
+    "flag": "https://twemoji.maxcdn.com/2/svg/1f1e9-1f1f2.svg",
+    "population": 71986,
+    "landlocked": false
+  },
+  {
+    "id": 49,
+    "name": {
+      "common": "Dominican Republic"
+    },
+    "capital": ["Santo Domingo"],
+    "region": "Americas",
+    "area": 48671,
+    "flag": "https://twemoji.maxcdn.com/2/svg/1f1e9-1f1f4.svg",
+    "population": 10847904,
+    "landlocked": false
+  },
+  {
+    "id": 50,
+    "name": {
+      "common": "Ecuador"
+    },
+    "capital": ["Quito"],
+    "region": "Americas",
+    "area": 276841,
+    "flag": "https://twemoji.maxcdn.com/2/svg/1f1ea-1f1e8.svg",
+    "population": 17643060,
+    "landlocked": false
+  },
+  {
+    "id": 51,
+    "name": {
+      "common": "Egypt"
+    },
+    "capital": ["Cairo"],
+    "region": "Africa",
+    "area": 1002450,
+    "flag": "https://twemoji.maxcdn.com/2/svg/1f1ea-1f1ec.svg",
+    "population": 102334404,
+    "landlocked": false
+  },
+  {
+    "id": 52,
+    "name": {
+      "common": "El Salvador"
+    },
+    "capital": ["San Salvador"],
+    "region": "Americas",
+    "area": 21041,
+    "flag": "https://twemoji.maxcdn.com/2/svg/1f1f8-1f1fb.svg",
+    "population": 6486201,
+    "landlocked": false
+  },
+  {
+    "id": 53,
+    "name": {
+      "common": "Equatorial Guinea"
+    },
+    "capital": ["Malabo"],
+    "region": "Africa",
+    "area": 28051,
+    "flag": "https://twemoji.maxcdn.com/2/svg/1f1ec-1f1f6.svg",
+    "population": 1402985,
+    "landlocked": false
+  },
+  {
+    "id": 54,
+    "name": {
+      "common": "Eritrea"
+    },
+    "capital": ["Asmara"],
+    "region": "Africa",
+    "area": 117600,
+    "flag": "https://twemoji.maxcdn.com/2/svg/1f1ea-1f1f7.svg",
+    "population": 3546421,
+    "landlocked": false
+  },
+  {
+    "id": 55,
+    "name": {
+      "common": "Estonia"
+    },
+    "capital": ["Tallinn"],
+    "region": "Europe",
+    "area": 45227,
+    "flag": "https://twemoji.maxcdn.com/2/svg/1f1ea-1f1ea.svg",
+    "population": 1326535,
+    "landlocked": false
+  },
+  {
+    "id": 56,
+    "name": {
+      "common": "Eswatini (fmr. \"Swaziland\")"
+    },
+    "capital": ["Mbabane"],
+    "region": "Africa",
+    "area": 17364,
+    "flag": "https://twemoji.maxcdn.com/2/svg/1f1f8-1f1ff.svg",
+    "population": 1160164,
+    "landlocked": true
+  },
+  {
+    "id": 57,
+    "name": {
+      "common": "Ethiopia"
+    },
+    "capital": ["Addis Ababa"],
+    "region": "Africa",
+    "area": 1104300,
+    "flag": "https://twemoji.maxcdn.com/2/svg/1f1ea-1f1f9.svg",
+    "population": 114963588,
+    "landlocked": true
+  },
+  {
+    "id": 58,
+    "name": {
+      "common": "Fiji"
+    },
+    "capital": ["Suva"],
+    "region": "Oceania",
+    "area": 18272,
+    "flag": "https://twemoji.maxcdn.com/2/svg/1f1eb-1f1ef.svg",
+    "population": 896445,
+    "landlocked": false
+  },
+  {
+    "id": 59,
+    "name": {
+      "common": "Finland"
+    },
+    "capital": ["Helsinki"],
+    "region": "Europe",
+    "area": 338424,
+    "flag": "https://twemoji.maxcdn.com/2/svg/1f1eb-1f1ee.svg",
+    "population": 5540720,
+    "landlocked": false
+  },
+  {
+    "id": 60,
+    "name": {
+      "common": "France"
+    },
+    "capital": ["Paris"],
+    "region": "Europe",
+    "area": 551695,
+    "flag": "https://twemoji.maxcdn.com/2/svg/1f1eb-1f1f7.svg",
+    "population": 67399000,
+    "landlocked": false
+  },
+  {
+    "id": 61,
+    "name": {
+      "common": "Gabon"
+    },
+    "capital": ["Libreville"],
+    "region": "Africa",
+    "area": 267668,
+    "flag": "https://twemoji.maxcdn.com/2/svg/1f1ec-1f1e6.svg",
+    "population": 2225734,
+    "landlocked": false
+  },
+  {
+    "id": 62,
+    "name": {
+      "common": "Gambia"
+    },
+    "capital": ["Banjul"],
+    "region": "Africa",
+    "area": 11295,
+    "flag": "https://twemoji.maxcdn.com/2/svg/1f1ec-1f1f2.svg",
+    "population": 2416668,
+    "landlocked": false
+  },
+  {
+    "id": 63,
+    "name": {
+      "common": "Georgia"
+    },
+    "capital": ["Tbilisi"],
+    "region": "Asia",
+    "area": 69700,
+    "flag": "https://twemoji.maxcdn.com/2/svg/1f1ec-1f1ea.svg",
+    "population": 3989167,
+    "landlocked": false
+  },
+  {
+    "id": 64,
+    "name": {
+      "common": "Germany"
+    },
+    "capital": ["Berlin"],
+    "region": "Europe",
+    "area": 357114,
+    "flag": "https://twemoji.maxcdn.com/2/svg/1f1e9-1f1ea.svg",
+    "population": 83240525,
+    "landlocked": false
+  },
+  {
+    "id": 65,
+    "name": {
+      "common": "Ghana"
+    },
+    "capital": ["Accra"],
+    "region": "Africa",
+    "area": 238533,
+    "flag": "https://twemoji.maxcdn.com/2/svg/1f1ec-1f1ed.svg",
+    "population": 31072940,
+    "landlocked": false
+  },
+  {
+    "id": 66,
+    "name": {
+      "common": "Greece"
+    },
+    "capital": ["Athens"],
+    "region": "Europe",
+    "area": 131990,
+    "flag": "https://twemoji.maxcdn.com/2/svg/1f1ec-1f1f7.svg",
+    "population": 10715549,
+    "landlocked": false
+  },
+  {
+    "id": 67,
+    "name": {
+      "common": "Grenada"
+    },
+    "capital": ["St. George's"],
+    "region": "Americas",
+    "area": 344,
+    "flag": "https://twemoji.maxcdn.com/2/svg/1f1ec-1f1e9.svg",
+    "population": 112519,
+    "landlocked": false
+  },
+  {
+    "id": 68,
+    "name": {
+      "common": "Guatemala"
+    },
+    "capital": ["Guatemala City"],
+    "region": "Americas",
+    "area": 108889,
+    "flag": "https://twemoji.maxcdn.com/2/svg/1f1ec-1f1f9.svg",
+    "population": 16858333,
+    "landlocked": false
+  },
+  {
+    "id": 69,
+    "name": {
+      "common": "Guinea"
+    },
+    "capital": ["Conakry"],
+    "region": "Africa",
+    "area": 245857,
+    "flag": "https://twemoji.maxcdn.com/2/svg/1f1ec-1f1f3.svg",
+    "population": 13132792,
+    "landlocked": false
+  },
+  {
+    "id": 70,
+    "name": {
+      "common": "Guinea-Bissau"
+    },
+    "capital": ["Bissau"],
+    "region": "Africa",
+    "area": 36125,
+    "flag": "https://twemoji.maxcdn.com/2/svg/1f1ec-1f1fc.svg",
+    "population": 1604528,
+    "landlocked": false
+  },
+  {
+    "id": 71,
+    "name": {
+      "common": "Guyana"
+    },
+    "capital": ["Georgetown"],
+    "region": "Americas",
+    "area": 214969,
+    "flag": "https://twemoji.maxcdn.com/2/svg/1f1ec-1f1fe.svg",
+    "population": 786559,
+    "landlocked": false
+  },
+  {
+    "id": 72,
+    "name": {
+      "common": "Haiti"
+    },
+    "capital": ["Port-au-Prince"],
+    "region": "Americas",
+    "area": 27750,
+    "flag": "https://twemoji.maxcdn.com/2/svg/1f1ed-1f1f9.svg",
+    "population": 11402528,
+    "landlocked": false
+  },
+  {
+    "id": 73,
+    "name": {
+      "common": "Honduras"
+    },
+    "capital": ["Tegucigalpa"],
+    "region": "Americas",
+    "area": 112492,
+    "flag": "https://twemoji.maxcdn.com/2/svg/1f1ed-1f1f3.svg",
+    "population": 9904608,
+    "landlocked": false
+  },
+  {
+    "id": 74,
+    "name": {
+      "common": "Hungary"
+    },
+    "capital": ["Budapest"],
+    "region": "Europe",
+    "area": 93028,
+    "flag": "https://twemoji.maxcdn.com/2/svg/1f1ed-1f1fa.svg",
+    "population": 9749763,
+    "landlocked": true
+  },
+  {
+    "id": 75,
+    "name": {
+      "common": "Iceland"
+    },
+    "capital": ["Reykjavík"],
+    "region": "Europe",
+    "area": 103000,
+    "flag": "https://twemoji.maxcdn.com/2/svg/1f1ee-1f1f8.svg",
+    "population": 366425,
+    "landlocked": false
+  },
+  {
+    "id": 76,
+    "name": {
+      "common": "India"
+    },
+    "capital": ["New Delhi"],
+    "region": "Asia",
+    "area": 3287590,
+    "flag": "https://twemoji.maxcdn.com/2/svg/1f1ee-1f1f3.svg",
+    "population": 1380004385,
+    "landlocked": false
+  },
+  {
+    "id": 77,
+    "name": {
+      "common": "Indonesia"
+    },
+    "capital": ["Jakarta"],
+    "region": "Asia",
+    "area": 1904569,
+    "flag": "https://twemoji.maxcdn.com/2/svg/1f1ee-1f1e9.svg",
+    "population": 273523621,
+    "landlocked": false
+  },
+  {
+    "id": 78,
+    "name": {
+      "common": "Iran"
+    },
+    "capital": ["Tehran"],
+    "region": "Asia",
+    "area": 1648195,
+    "flag": "https://twemoji.maxcdn.com/2/svg/1f1ee-1f1f7.svg",
+    "population": 83992953,
+    "landlocked": false
+  },
+  {
+    "id": 79,
+    "name": {
+      "common": "Iraq"
+    },
+    "capital": ["Baghdad"],
+    "region": "Asia",
+    "area": 438317,
+    "flag": "https://twemoji.maxcdn.com/2/svg/1f1ee-1f1f6.svg",
+    "population": 40222493,
+    "landlocked": false
+  },
+  {
+    "id": 80,
+    "name": {
+      "common": "Ireland"
+    },
+    "capital": ["Dublin"],
+    "region": "Europe",
+    "area": 70273,
+    "flag": "https://twemoji.maxcdn.com/2/svg/1f1ee-1f1ea.svg",
+    "population": 4994724,
+    "landlocked": false
+  },
+  {
+    "id": 81,
+    "name": {
+      "common": "Israel"
+    },
+    "capital": ["Jerusalem"],
+    "region": "Asia",
+    "area": 20770,
+    "flag": "https://twemoji.maxcdn.com/2/svg/1f1ee-1f1f1.svg",
+    "population": 9216900,
+    "landlocked": false
+  },
+  {
+    "id": 82,
+    "name": {
+      "common": "Italy"
+    },
+    "capital": ["Rome"],
+    "region": "Europe",
+    "area": 301336,
+    "flag": "https://twemoji.maxcdn.com/2/svg/1f1ee-1f1f9.svg",
+    "population": 60367477,
+    "landlocked": false
+  },
+  {
+    "id": 83,
+    "name": {
+      "common": "Jamaica"
+    },
+    "capital": ["Kingston"],
+    "region": "Americas",
+    "area": 10991,
+    "flag": "https://twemoji.maxcdn.com/2/svg/1f1ef-1f1f2.svg",
+    "population": 2961161,
+    "landlocked": false
+  },
+  {
+    "id": 84,
+    "name": {
+      "common": "Japan"
+    },
+    "capital": ["Tokyo"],
+    "region": "Asia",
+    "area": 377930,
+    "flag": "https://twemoji.maxcdn.com/2/svg/1f1ef-1f1f5.svg",
+    "population": 125960000,
+    "landlocked": false
+  },
+  {
+    "id": 85,
+    "name": {
+      "common": "Jordan"
+    },
+    "capital": ["Amman"],
+    "region": "Asia",
+    "area": 89342,
+    "flag": "https://twemoji.maxcdn.com/2/svg/1f1ef-1f1f4.svg",
+    "population": 10203134,
+    "landlocked": true
+  },
+  {
+    "id": 86,
+    "name": {
+      "common": "Kazakhstan"
+    },
+    "capital": ["Nur-Sultan"],
+    "region": "Asia",
+    "area": 2724900,
+    "flag": "https://twemoji.maxcdn.com/2/svg/1f1f0-1f1ff.svg",
+    "population": 18754440,
+    "landlocked": true
+  },
+  {
+    "id": 87,
+    "name": {
+      "common": "Kenya"
+    },
+    "capital": ["Nairobi"],
+    "region": "Africa",
+    "area": 580367,
+    "flag": "https://twemoji.maxcdn.com/2/svg/1f1f0-1f1ea.svg",
+    "population": 53771300,
+    "landlocked": false
+  },
+  {
+    "id": 88,
+    "name": {
+      "common": "Kiribati"
+    },
+    "capital": ["South Tarawa"],
+    "region": "Oceania",
+    "area": 811,
+    "flag": "https://twemoji.maxcdn.com/2/svg/1f1f0-1f1ee.svg",
+    "population": 119446,
+    "landlocked": false
+  },
+  {
+    "id": 89,
+    "name": {
+      "common": "Kuwait"
+    },
+    "capital": ["Kuwait City"],
+    "region": "Asia",
+    "area": 17818,
+    "flag": "https://twemoji.maxcdn.com/2/svg/1f1f0-1f1fc.svg",
+    "population": 4270563,
+    "landlocked": false
+  },
+  {
+    "id": 90,
+    "name": {
+      "common": "Kyrgyzstan"
+    },
+    "capital": ["Bishkek"],
+    "region": "Asia",
+    "area": 199951,
+    "flag": "https://twemoji.maxcdn.com/2/svg/1f1f0-1f1ec.svg",
+    "population": 6591600,
+    "landlocked": true
+  },
+  {
+    "id": 91,
+    "name": {
+      "common": "Laos"
+    },
+    "capital": ["Vientiane"],
+    "region": "Asia",
+    "area": 236800,
+    "flag": "https://twemoji.maxcdn.com/2/svg/1f1f1-1f1e6.svg",
+    "population": 7275560,
+    "landlocked": true
+  },
+  {
+    "id": 92,
+    "name": {
+      "common": "Latvia"
+    },
+    "capital": ["Riga"],
+    "region": "Europe",
+    "area": 64559,
+    "flag": "https://twemoji.maxcdn.com/2/svg/1f1f1-1f1fb.svg",
+    "population": 1901548,
+    "landlocked": false
+  },
+  {
+    "id": 93,
+    "name": {
+      "common": "Lebanon"
+    },
+    "capital": ["Beirut"],
+    "region": "Asia",
+    "area": 10452,
+    "flag": "https://twemoji.maxcdn.com/2/svg/1f1f1-1f1e7.svg",
+    "population": 6825442,
+    "landlocked": false
+  },
+  {
+    "id": 94,
+    "name": {
+      "common": "Lesotho"
+    },
+    "capital": ["Maseru"],
+    "region": "Africa",
+    "area": 30355,
+    "flag": "https://twemoji.maxcdn.com/2/svg/1f1f1-1f1f8.svg",
+    "population": 2142249,
+    "landlocked": true
+  },
+  {
+    "id": 95,
+    "name": {
+      "common": "Liberia"
+    },
+    "capital": ["Monrovia"],
+    "region": "Africa",
+    "area": 111369,
+    "flag": "https://twemoji.maxcdn.com/2/svg/1f1f1-1f1f7.svg",
+    "population": 5057677,
+    "landlocked": false
+  },
+  {
+    "id": 96,
+    "name": {
+      "common": "Libya"
+    },
+    "capital": ["Tripoli"],
+    "region": "Africa",
+    "area": 1759540,
+    "flag": "https://twemoji.maxcdn.com/2/svg/1f1f1-1f1fe.svg",
+    "population": 6871287,
+    "landlocked": false
+  },
+  {
+    "id": 97,
+    "name": {
+      "common": "Liechtenstein"
+    },
+    "capital": ["Vaduz"],
+    "region": "Europe",
+    "area": 160,
+    "flag": "https://twemoji.maxcdn.com/2/svg/1f1f1-1f1ee.svg",
+    "population": 38137,
+    "landlocked": true
+  },
+  {
+    "id": 98,
+    "name": {
+      "common": "Lithuania"
+    },
+    "capital": ["Vilnius"],
+    "region": "Europe",
+    "area": 65300,
+    "flag": "https://twemoji.maxcdn.com/2/svg/1f1f1-1f1f9.svg",
+    "population": 2793471,
+    "landlocked": false
+  },
+  {
+    "id": 99,
+    "name": {
+      "common": "Luxembourg"
+    },
+    "capital": ["Luxembourg"],
+    "region": "Europe",
+    "area": 2586,
+    "flag": "https://twemoji.maxcdn.com/2/svg/1f1f1-1f1fa.svg",
+    "population": 634814,
+    "landlocked": true
+  },
+  {
+    "id": 100,
+    "name": {
+      "common": "Madagascar"
+    },
+    "capital": ["Antananarivo"],
+    "region": "Africa",
+    "area": 587041,
+    "flag": "https://twemoji.maxcdn.com/2/svg/1f1f2-1f1ec.svg",
+    "population": 27691018,
+    "landlocked": false
+  }
+]
